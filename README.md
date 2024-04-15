@@ -49,3 +49,4 @@ Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate. T
 3. Applied AI Course
 4. https://github.com/seatgeek/fuzzywuzzy#usage , https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/
 5. http://proceedings.mlr.press/v37/kusnerb15.pdf
+6. https://github.com/UdiBhaskar/Quora-Question-pair-similarity/tree/master
